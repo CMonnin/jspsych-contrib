@@ -1,6 +1,6 @@
 {
   "name": "@jspsych-contrib/plugin-text-to-speech-button-reponse",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Displays text, reasd to participant using SpeechSynthesis, has buttons for responses",
   "type": "module",
   "main": "dist/index.cjs",
