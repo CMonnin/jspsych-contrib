@@ -1,6 +1,6 @@
 {
   "name": "@jspsych-contrib/plugin-text-to-speech-keyboard-response",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Displays text, reads to the participant using SpeechSythesis, takes keybaoard presses for responses",
   "type": "module",
   "main": "dist/index.cjs",
